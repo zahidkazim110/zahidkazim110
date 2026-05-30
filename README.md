@@ -36,24 +36,7 @@
 
 </div>
 
-
-### **🔥 Featured Projects**  
-
-#### **1. Smart Sportswear Suite**  
-[![View Code](https://img.shields.io/badge/View_Code-GitHub-181717?logo=github)](https://github.com/your-username/smart-sportswear)  
-- IoT-integrated sportswear with real-time **biometric tracking**.
-- Built with **Python** and **Arduino** for data analysis and hardware control.  
-- Featured in **TechFashion Magazine** 🏆.  
-
-#### **2. Virtual Fitting Room**  
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Heroku-430098?logo=heroku)](https://your-demo-link.com)  
-- **3D-rendered** virtual try-on platform using **Blender** and **Three.js**.  
-- Reduces return rates by **40%** for e-commerce clients.  
-
-#### **3. FabricAI Analyzer**  
-[![Download](https://img.shields.io/badge/Download_App-Google_Play-414141?logo=google-play)](https://play.google.com/store/apps/details?id=com.fabricai)  
-- AI-powered tool to analyze **fabric durability** and **sustainability**.  
-- Trained on **TensorFlow** with 95% accuracy.  
+ 
 
 ---
 
